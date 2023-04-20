@@ -12,7 +12,7 @@ First lets Login/Sign Up
 <img src="./images/login.png">
 
 Then you'll be taken to the home page where you can see everyones images on the map
-<img src="./images/home.png">
+<img src="./images/homepage.png">
 
 If you go to your page on the top navigation you will see only your posts and be able to delete posts there
 <img src="./images/userpage.png">

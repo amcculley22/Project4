@@ -1,0 +1,43 @@
+.FeedPage {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.Content {
+  display: flex;
+  flex-grow: 1;
+}
+
+.Posts {
+  width: 33%;
+  height: 100%;
+  overflow-y: scroll;
+  padding: 1rem;
+}
+
+.MapContainer {
+  width: 67%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.Map {
+  width: 100%;
+  height: auto;
+  border-radius: 1vmin;
+}
+
+.Nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  border-radius: 1vmin;
+  margin-bottom: 1vmin;
+  width: 100%;
+}

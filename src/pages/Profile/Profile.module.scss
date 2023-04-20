@@ -1,0 +1,51 @@
+.FeedPage {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.Content {
+  display: flex;
+  flex-grow: 1;
+}
+
+.Posts {
+  width: 50%;
+  height: 100%;
+  overflow-y: scroll;
+  padding: 1rem;
+}
+
+.Nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  border-radius: 1vmin;
+  margin-bottom: 1vmin;
+  width: 100%;
+}
+
+.MapContainer {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.Map {
+  width: 100%;
+  height: auto;
+  border-radius: 1vmin;
+}
+
+.UserName {
+  color: rgb(255, 252, 74);
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1rem;
+}

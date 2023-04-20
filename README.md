@@ -8,18 +8,17 @@ Upload and post images in specific locations.
 
 ## ScreenShots
 
-<!-- The home screen shows all of your songs added to the playlist
-<img src="./images/Home.png">
+First lets Login/Sign Up
+<img src="./images/login.png">
 
-Clicking on a song will spin the record and "play" the song
-<img src="./images/play.png">
-Using the seach bar you can look for all music in the Dicogs API database
-<img src="./images/search.png">
-You can then add these songs to your playlist
-Once a song is on your playlist you can remove or click the song title for more details
-<img src="./images/show.png">
-Depending on your mood you can filter using the slider
-<img src="./images/Filter.png"> -->
+Then you'll be taken to the home page where you can see everyones images on the map
+<img src="./images/home.png">
+
+If you go to your page on the top navigation you will see only your posts and be able to delete posts there
+<img src="./images/userpage.png">
+
+To post a new post, go to post and upload an image and add a caption. Soon will be adding a location as well
+<img src="./images/newpost.png">
 
 ## Restful Routes
 

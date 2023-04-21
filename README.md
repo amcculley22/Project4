@@ -4,7 +4,7 @@ Upload and post images in specific locations.
 
 ## Getting Started
 
-<!-- Link: https://aux-app.herokuapp.com/song -->
+Link:
 
 ## ScreenShots
 

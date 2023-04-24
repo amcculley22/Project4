@@ -5,11 +5,12 @@ Upload and post images in specific locations.
 ## Getting Started
 
 Link:
+https://mc-project4.herokuapp.com/
 
 ## ScreenShots
 
 First lets Login/Sign Up
-<img src="./images/login.png">
+<img src="">
 
 Then you'll be taken to the home page where you can see everyones images on the map
 <img src="./images/homepage.png">
